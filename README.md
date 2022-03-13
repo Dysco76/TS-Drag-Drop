@@ -1,7 +1,8 @@
 # Project Tracking Tool
 
 > A very basic project tracking tool built around browser drag & drop functionality using TypeScript.
-> Live demo [_here_](https://www.example.com).
+
+> Live demo [_here_](https://focused-booth-5edd23.netlify.app/public/).
 
 ## Table of Contents
 
