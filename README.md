@@ -14,8 +14,6 @@
 
 -   This is a very basic project tracking tool built with TypeScript and bundled with Webpack.
 -   It uses browser drag & drop functionality to mark projects as 'Active' or 'Finished'.
--   It is built in order to memorize the contents of the Udemy course [
-    Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/).
 
 ## Technologies Used
 
